@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "slotmachine",
+    "slug": "slotmachine",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "slotmachine"
+}
